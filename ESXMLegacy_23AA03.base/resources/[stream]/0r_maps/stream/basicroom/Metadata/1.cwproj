@@ -1,0 +1,50 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>op_motel_inst_01.ymap</Item>
+    <Item>op_motel_inst_02.ymap</Item>
+    <Item>op_motel_inst_03.ymap</Item>
+    <Item>op_motel_inst_04.ymap</Item>
+    <Item>op_motel_inst_05.ymap</Item>
+    <Item>op_motel_inst_06.ymap</Item>
+    <Item>op_motel_inst_07.ymap</Item>
+    <Item>op_motel_inst_08.ymap</Item>
+    <Item>op_motel_inst_09.ymap</Item>
+    <Item>op_motel_inst_10.ymap</Item>
+    <Item>op_motel_inst_11.ymap</Item>
+    <Item>op_motel_inst_12.ymap</Item>
+    <Item>op_motel_inst_13.ymap</Item>
+    <Item>op_motel_inst_14.ymap</Item>
+    <Item>op_motel_inst_15.ymap</Item>
+    <Item>op_motel_inst_16.ymap</Item>
+    <Item>op_motel_inst_17.ymap</Item>
+    <Item>op_motel_inst_18.ymap</Item>
+    <Item>op_motel_inst_19.ymap</Item>
+    <Item>op_motel_inst_20.ymap</Item>
+    <Item>op_motel_inst_21.ymap</Item>
+    <Item>op_motel_inst_22.ymap</Item>
+    <Item>op_motel_inst_23.ymap</Item>
+    <Item>op_motel_inst_24.ymap</Item>
+    <Item>op_motel_inst_25.ymap</Item>
+    <Item>op_motel_inst_26.ymap</Item>
+    <Item>op_motel_inst_27.ymap</Item>
+    <Item>op_motel_inst_28.ymap</Item>
+    <Item>op_motel_inst_30.ymap</Item>
+    <Item>op_motel_inst_31.ymap</Item>
+    <Item>op_motel_inst_32.ymap</Item>
+    <Item>op_motel_inst_33.ymap</Item>
+    <Item>op_motel_instbld_01_01.ymap</Item>
+    <Item>op_motel_instbld_01_02.ymap</Item>
+    <Item>op_motel_instbld_01_03.ymap</Item>
+    <Item>op_motel_instbld_01_04.ymap</Item>
+    <Item>op_motel_inst_29.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames />
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+</CodeWalkerProject>
