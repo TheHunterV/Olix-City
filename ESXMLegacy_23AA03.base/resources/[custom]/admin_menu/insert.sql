@@ -1,3 +1,0 @@
-ALTER TABLE `users`
-ADD `bantime` TIMESTAMP NULL DEFAULT NULL,
-ADD `banreason` VARCHAR(500);
